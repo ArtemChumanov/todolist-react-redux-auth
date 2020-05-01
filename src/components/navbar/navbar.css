@@ -1,0 +1,10 @@
+.header{
+    background: black;
+   font-size: 2em;
+    margin-bottom: 80px;
+}
+.btn-exit{
+    color: white;
+    font-weight: bold;
+    float: right;
+}
